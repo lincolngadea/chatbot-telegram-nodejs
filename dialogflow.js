@@ -27,7 +27,7 @@ async function sendMessage(chatId, message){
   return{
     text: result.fulfillmentText,
     intent: result.intent.displayName,
-    fields: result.parameters.fiels
+    fields: result.parameters.fields
   }
 }
 
