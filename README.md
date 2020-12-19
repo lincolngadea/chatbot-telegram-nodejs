@@ -1,7 +1,7 @@
 ## CHATBOT  DO TELEGRAM
 ### Objetivo:
 
-Cria um chatbot utilizando o dialogflow da google, utilizando macning learn para realizar pesquisas diretamente no youtube de assuntos específicos.
+Cria um chatbot utilizando o dialogflow da google, utilizando machine learn para realizar pesquisas diretamente no youtube de assuntos específicos.
 ### Bibleotecas utilizadas:
 
 - telegram-bot-api
