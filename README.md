@@ -17,7 +17,7 @@ Cria um chatbot utilizando o dialogflow da google, utilizando macning learn para
 
 É necessário conhecer o básico de dialogflow e geração de apis no google cloud para executar esse projeto.
 
-- Clone o repositório: git clone 
+- Clone o repositório: git clone https://github.com/lincolngadea/chatbot-telegram-nodejs.git
 - Caso não dê algum problema com a chave atual do google em sua conta, você vai precisar criar um novo projeto no dialogflow e criar uma nova credencial apontando para o projeto e baixar a api-key do dialog flow. link: https://dialogflow.cloud.google.com/
 - Uma vez criada a api-key do dialogflo salve no projeto substituindo ela pelo arquivo chatbot-key.json e mantendo o mesmo nome
 - Pode ser necessário também, criar uma nova api-key para o youtube, faça isso no link:https://developers.google.com/youtube/v3/getting-started
